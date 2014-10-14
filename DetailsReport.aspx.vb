@@ -1,4 +1,4 @@
-﻿
+/*Testing Git**/
 Partial Class Gallery_DetailsReport
     Inherits System.Web.UI.Page
 
